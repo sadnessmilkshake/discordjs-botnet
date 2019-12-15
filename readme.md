@@ -13,7 +13,7 @@ STOP - ОСТАНОВИТЬ МУЗЫКУ<br/>
 ID_BOT начинаеться от 0<br/>
 <@USER_ID> УПАМЯНУТЬ ЧЕЛОВЕКА<br/>
 
-УСТАНОВИ ЭТИ МОДУЛИ<br/>
+<h1>УСТАНОВИ ЭТИ МОДУЛИ</h1><br/>
 npm install fs<br/>
 npm install discord.js<br/>
 npm install xmlhttprequest<br/>
@@ -22,6 +22,6 @@ npm install node-opus<br/>
 npm install ytdl-core<br/>
 
 И установи ffmpeg<br/>
+<h1>By thebestshadow.aspire-world.pw</h1><br/>
 
-By thebestshadow.aspire-world.pw<br/>
 
